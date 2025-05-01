@@ -1,10 +1,3 @@
-<table>
-<tr>
-<td width="160">
-  <img src="./assets/img/profile.jpg" alt="photo" width="150" style="border-radius: 50%;">
-</td>
-<td>
-
 ## Hi there 👋
 
 Hello, I'm Zizhe Xia. Welcome to my personal site!
