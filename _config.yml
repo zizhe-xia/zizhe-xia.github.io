@@ -22,7 +22,7 @@ repository               : "zizhe-xia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zizhe.jpeg"
   name             : "Zizhe Xia"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD student"

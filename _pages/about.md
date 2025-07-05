@@ -8,19 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-## Hi there 👋
 
-Hello, I'm Zizhe Xia. Welcome to my personal site!
-
-## Who am I?
-
-I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
+Hello, I'm Zizhe Xia. Welcome to my personal site! I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
 
 ## How to pronounce my name?
 
 Zizhe is pronounced like "zi-zhir" where "zh" is a [retroflex consonant](https://en.wikipedia.org/wiki/Retroflex_consonant) that sounds like a "j", and "ir" sounds like in "firm". 
 
-Xia ia pronouced like "shia".
+Xia is pronouced like "shia".
 
 ## Research
    
@@ -28,9 +23,7 @@ Xia ia pronouced like "shia".
 
 ### **Expert Incentives under Non-Contractible States**
 
-
 ### **Regulating Monopoly Quality without Transfers**
-
 
 ### **[Screening Knowledge with Verifiable Evidence](https://github.com/zizhe-xia/zizhe-xia/raw/main/assets/Hiring_with_Evidence_Feb2025.pdf)** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
 <details>
