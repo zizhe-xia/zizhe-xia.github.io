@@ -22,7 +22,7 @@ repository               : "zizhe-xia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zizhe.jpeg"
+  avatar           : "zizhe.png"
   name             : "Zizhe Xia"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD student"
@@ -305,7 +305,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -314,7 +314,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
