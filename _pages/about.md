@@ -1,13 +1,66 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## Hi there 👋
+
+Hello, I'm Zizhe Xia. Welcome to my personal site!
+
+## Who am I?
+
+I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
+
+## How to pronounce my name?
+
+Zizhe is pronounced like "zi-zhir" where "zh" is a [retroflex consonant](https://en.wikipedia.org/wiki/Retroflex_consonant) that sounds like a "j", and "ir" sounds like in "firm". 
+
+Xia ia pronouced like "shia".
+
+## Research
+   
+### **Comparisons of Information in Moral Hazard Problems**
+
+### **Expert Incentives under Non-Contractible States**
+
+
+### **Regulating Monopoly Quality without Transfers**
+
+
+### **[Screening Knowledge with Verifiable Evidence](https://github.com/zizhe-xia/zizhe-xia/raw/main/assets/Hiring_with_Evidence_Feb2025.pdf)** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
+<details>
+    <summary>Abstract</summary>
+    A principal seeks to screen an agent based on his demonstrable knowledge of a subject
+     matter, modeled as a binary state. The agent learns about the state through two kinds of
+    opposing verifiable signals, each kind providing evidence in favor of one of the states. A good
+    quality agent has an evidence structure which is more informative than a bad quality one. In
+    a symmetric setting, we show that under the optimal test, regardless of whether the agent can
+    predict the state correctly, he is failed if the amount of evidence he is able to show is below a
+    threshold. Conditional on providing evidence above this threshold, the agent is passed based on
+    a simple True-False test – i.e., if and only if he gives the correct answer. We see this result as
+    rationalizing a common test structure where test-takers are given credit for giving the correct
+    answer only if they show a minimal amount of data, arguments, or steps, in support of their
+    answer. We prove the results by identifying a connection to the optimal transport problem and
+    leveraging it to show the existence of an appropriate virtual value function.
+</details>
+
+
+
+## Contact
+
+[First]-[Last] at chicagobooth.edu
+
+---
+
+Thank you for visiting!
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +106,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
