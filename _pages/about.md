@@ -19,13 +19,13 @@ Xia is pronouced like "shia".
 
 ## Research
    
-### **[Comparisons of Information in Moral Hazard Problems](https://github.com/zizhe-xia/zizhe-xia.github.io/raw/main/assets/Compare_Info_MH.pdf)**
+### **[Comparisons of Information in Moral Hazard Problems](https://github.com/zizhe-xia/zizhe-xia.github.io/assets/Compare_Info_MH.pdf)**
 <details>
     <summary>Abstract</summary>
     I use a novel geometric approach to compare information in moral hazard problems. I study three nested geometric orders on information, namely the column space, the conic span, and the zonotope orders. The orders are defined by the inclusion of the column space, the conic span, and the zonotope of the matrices representing the experiments. For each order, I establish four equivalent characterizations – (i) inclusion of polyhedral sets of feasible state dependent utilities, (ii) matrix factorization, (iii) posterior belief distributions, and (iv) classes of moral hazard problems. The column space order characterizes the comparison of feasibility in all moral hazard problems. The conic span order characterizes the comparison of costs in all moral hazard problems with a risk neutral agent and limited liability. The zonotope order characterizes the comparison of costs in all moral hazard problems when the agent can have any utility exhibiting risk aversion.
 </details>
 
-### **[Screening Knowledge with Verifiable Evidence](https://github.com/zizhe-xia/zizhe-xia.github.io/raw/main/assets/Hiring_with_Evidence_Feb2025.pdf)** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
+### **[Screening Knowledge with Verifiable Evidence](https://github.com/zizhe-xia/zizhe-xia.github.io/assets/Hiring_with_Evidence_Feb2025.pdf)** (with [Sulagna Dasgupta](https://sites.google.com/view/sulagna)) 
 <details>
     <summary>Abstract</summary>
     A principal seeks to screen an agent based on his demonstrable knowledge of a subject
