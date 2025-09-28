@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello, I'm Zizhe Xia. Welcome to my personal site! I am 4-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
+Hello, I'm Zizhe Xia. Welcome to my personal site! I am 5-th year economics PhD student at Chicago Booth. I'm interested in mechanism design and information design.
 
 ## How to pronounce my name?
 
